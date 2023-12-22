@@ -35,3 +35,16 @@ body {
 .tab-content {
     margin-left: 5%;
 }
+
+/* Image Designsss */
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    padding-bottom: 10px;
+  }
+
+  .post_img > img {
+    width: 30%;
+    display: inline-flexbox;
+  }
